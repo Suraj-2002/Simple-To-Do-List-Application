@@ -1,0 +1,1 @@
+This is a simple To-do list application using python programming language. In the simple To-do list it can add a task, remove the task , mark the task which is been completed and displays the task which has been done and not done tasks. 
